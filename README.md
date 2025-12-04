@@ -48,3 +48,23 @@ Implemented visuals:
 📋 Tables – Detailed breakdown of sales records
 
 This version is the complete BI report offering insights and decision-support visuals. 
+
+⿤ sales_data_DAY4.pbix – Report Formatting & Final Enhancements
+
+This file contains the final polished version of the Power BI report, focused on improving design, layout, and user experience.
+
+Enhancements applied in this version:
+
+✔ Applied a built-in Power BI theme to ensure consistent colors and styling
+
+✔ Added a report title at the top for a clean and professional look
+
+✔ Aligned all visuals properly with equal spacing and neat arrangement
+
+✔ Formatted labels and titles to make them clear and easily readable
+
+✔ Added one slicer (Category or Region) for interactive filtering
+
+✔ Arranged all visuals into a well-structured one-page layout
+
+This version represents the final, presentation-ready dashboard with clean formatting and improved usability.
