@@ -3,6 +3,7 @@
 This repository contains a step-by-step Power BI project demonstrating data cleaning, transformation, and visualization. The workflow is organized into three .pbix files, each representing a different stage of the analysis process.
 
 📁 Project Files Overview
+
 1️⃣ sales_data.pbix – Raw Data Analysis
 
 This file contains the initial raw dataset loaded into Power BI.
@@ -47,9 +48,9 @@ Implemented visuals:
 
 📋 Tables – Detailed breakdown of sales records
 
-This version is the complete BI report offering insights and decision-support visuals. 
+This version is the complete BI report offering insights and decision-support visuals.
 
-⿤ sales_data_DAY4.pbix – Report Formatting & Final Enhancements
+4️⃣ sales_data_DAY4.pbix – Report Formatting & Final Enhancements
 
 This file contains the final polished version of the Power BI report, focused on improving design, layout, and user experience.
 
@@ -67,4 +68,24 @@ Enhancements applied in this version:
 
 ✔ Arranged all visuals into a well-structured one-page layout
 
-This version represents the final, presentation-ready dashboard with clean formatting and improved usability.
+This version represents the final, presentation-ready dashboard with clean formatting and improved usability.
+
+ 5. Final Dashboard Submission
+Final steps completed in this stage:
+
+- ✔ Reviewed the complete dashboard for consistency and clarity  
+
+- ✔ Made final adjustments to alignment, spacing, and color formatting  
+
+- ✔ Ensured visuals are clear, readable, and properly arranged  
+
+- ✔ Exported the final dashboard as a PDF file  
+
+- ✔ Published the report to Power BI Service  
+
+- ✔ Submission includes:  
+  - PBIX file  
+  - PDF export  
+  - Published report link (optional)  
+
+this is how our power bi dashboard work.
